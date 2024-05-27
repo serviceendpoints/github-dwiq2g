@@ -20,7 +20,7 @@
     "@syncfusion/ej2-angular-charts": "25.2.5",
     "@syncfusion/ej2-angular-popups": "25.2.4",
     "@syncfusion/ej2-angular-buttons": "25.2.4",
-    "@angular/platform-browser-dynamic": "17.1.2"
+    "@angular/platform-browser-dynamic": "18.0.0"
   },
   "scripts": {
     "ng": "ng",
